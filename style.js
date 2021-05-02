@@ -7,3 +7,8 @@ function def(params) {
 function devA() {
     console.log('dev_A code chức năng tạo branch');
 }
+function devB(params) {
+    console.log("dev_b code chức năng tạo branch hahaha");
+    
+}
+
